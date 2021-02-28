@@ -1,4 +1,4 @@
-local util = require('nvim_sql/util')
+local util = require('sql_db/util')
 
 local nvim_sql = {}
 nvim_sql.opts = {}
